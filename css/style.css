@@ -1,0 +1,139 @@
+    @font-face {
+        font-family: "sticker";
+        src: url("../font/Brightons.otf")
+    }
+    
+    body{
+        background-color: #f05656;
+    }
+
+    .title{
+        font-family: sticker;
+        color: white;
+        text-align: center;
+        font-size: 30px;
+    }
+
+    /*.margin{
+        position: absolute;
+        top:100px;
+    }*/
+    
+    .sticker {
+        width: 150px;
+        height: 150px;
+    }
+
+    .sticker-container{
+        margin-left: 60px;
+        float: left;
+        margin-top: 20px;
+    }
+    
+    .sticker-1 .sticker-img {
+        background-image: url("../img/diogenes.png");
+        background-size: cover;
+    }
+
+    .sticker-1 .sticker-shadow {
+        opacity: 0.6;
+    }
+    
+    .sticker-2 .sticker-img {
+        background-image: url("../img/beriwan.jpg");
+        background-size: cover;
+    }
+    
+    .sticker-2 .sticker-shadow {
+        opacity: 0.6;
+    }
+
+    .sticker-3 .sticker-img {
+        background-image: url("../img/bauer.jpg");
+        background-size: cover;
+    }
+    
+    .sticker-3 .sticker-shadow {
+        opacity: 0.6;
+    }
+
+    .sticker-4 .sticker-img {
+        background-image: url("../img/marcos.jpg");
+        background-size: cover;
+    }
+    
+    .sticker-4 .sticker-shadow {
+        opacity: 0.6;
+    }
+
+    .sticker-5 .sticker-img {
+        background-image: url("../img/saimon.jfif");
+        background-size: cover;
+    }
+    
+    .sticker-5 .sticker-shadow {
+        opacity: 0.6;
+    }
+
+    .sticker-6 .sticker-img {
+        background-image: url("../img/cauzni.jfif");
+        background-size: cover;
+    }
+    
+    .sticker-6 .sticker-shadow {
+        opacity: 0.6;
+    }
+
+    .sticker-7 .sticker-img {
+        background-image: url("../img/dioguinho.jfif");
+        background-size: cover;
+    }
+    
+    .sticker-7 .sticker-shadow {
+        opacity: 0.6;
+    }
+
+    .sticker-8 .sticker-img {
+        background-image: url("../img/kayky.jfif");
+        background-size: cover;
+    }
+    
+    .sticker-8 .sticker-shadow {
+        opacity: 0.6;
+    }
+
+    .sticker-9 .sticker-img {
+        background-image: url("../img/matheus.jfif");
+        background-size: cover;
+    }
+    
+    .sticker-9 .sticker-shadow {
+        opacity: 0.6;
+    }
+
+    .sticker-10 .sticker-img {
+        background-image: url("../img/nicolas.jfif");
+        background-size: cover;
+    }
+    
+    .sticker-10 .sticker-shadow {
+        opacity: 0.6;
+    }
+
+    .sticker-11 .sticker-img {
+        background-image: url("../img/ramon.jfif");
+        background-size: cover;
+    }
+    
+    .sticker-11 .sticker-shadow {
+        opacity: 0.6;
+    }
+
+    .sticker-12 .sticker-img {
+        background-image: url("../img/candido.jpg");
+        background-size: cover;
+    }
+    
+    .sticker-12 .sticker-shadow {
+        opacity: 0.6;
+    }
